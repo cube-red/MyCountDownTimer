@@ -1,0 +1,11 @@
+<resources>
+    <string name="pause">PAUSE</string>
+    <string name="app_name">MyTimer</string>
+    <string name="apptext">TIMER</string>
+    <string name="mdefault">0</string>
+    <string name="result">NOT DONE YET</string>
+    <string name="hint">ENTER TIME in SEC</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="reset">RESET TIMER</string>
+</resources>
